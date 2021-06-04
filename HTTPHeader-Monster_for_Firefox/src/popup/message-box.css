@@ -1,0 +1,31 @@
+
+
+
+
+div.xstooltip {
+	position: relative;
+z-index:-1;
+top: 0;
+left: 0;
+font: normal 9pt sans-serif;
+text-align: left;
+word-wrap: break-word;
+padding: 8px;
+border: solid 1px;
+background: rgba(225, 225, 225, 0.9)
+
+}
+
+tr>td:first-child {
+	width: 200px;
+	text-align: left
+	
+}
+
+#gloveboxtooltipclose {
+ width: 100px;
+ text-align: right
+}
+
+
+		
